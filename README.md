@@ -1,2 +1,6 @@
-# Mi-React-App
-Una calculadora hecha con React 
+#MiReactApp
+Este proyecto fue creado por Deivid uchiha. Para ejecutar la aplicación localmente ejecute:
+```
+npm install
+npm start
+```
